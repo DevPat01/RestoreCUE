@@ -1,0 +1,41 @@
+*****************************************************
+RESTORECUE
+Cue Restoration Software for Soundcraft Consoles
+Tested on Soundcraft Ui24R
+*****************************************************
+
+Project creator and developer:
+Patrick ARNAUD
+
+Software name:
+RestoreCUE
+
+Version:
+V10
+
+Date:
+October 30, 2026
+
+Description:
+
+RestoreCUE is a Python-based software application
+designed to rebuild and restore Cues on a Soundcraft
+Ui24R console using individual export files from a
+Show backup, primarily .uicue files.
+
+Main features:
+
+- Exhaustive reading of .uicue files exported from a Show
+- Parameter restoration using SETD commands
+- Cue saving using SAVECUE commands
+- Preliminary check that the Show exists on the console
+- Final check confirming the presence of Cue names
+- Individual Cue selection or selection by number ranges
+- Automatic search for folders containing Show files
+- Verification that Cue names have been restored to the console
+- Compatible with Windows and Linux (tested on Windows 11 and Linux Mint)
+
+Development:
+
+Project designed, managed and tested by Patrick ARNAUD,
+with assistance from software tools and artificial intelligence.
